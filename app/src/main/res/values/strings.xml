@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultipleDownLoad</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_down">文件下载的地址</string>
+    <string name="tv_threadNum">线程数量</string>
+    <string name="tv_num">0%</string>
+    <string name="btn_text">下载</string>
+    <string name="btn_pause">暂停</string>
+    <string name="et_path">http://images.enet.com.cn/2012/0727/97/3584835.jpg</string>
+    <string name="et_threadNum">3</string>
+
+</resources>
